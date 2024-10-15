@@ -1,5 +1,5 @@
 # Ai-tic-tac-toe
-This is a computer versus human Tic-Tac-Toe game
+A computer versus human Tic-Tac-Toe game
 
 <h1 align="left">Description</h1>
 <li>Developed strong and accurate error-handling and user-defined functions in the program.</li>
